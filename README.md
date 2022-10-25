@@ -2,26 +2,12 @@
 
 
 
-<a href="https://www.linkedin.com/in/gabriel-mususu/">
-  <img align="left" alt="Darshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/juan45901">
-  <img align="left" alt="Darshan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
-
-
-<br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
 ### I am Juan Gabriel
 
 
-
-<!---
-juan45901/juan45901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
@@ -36,3 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
