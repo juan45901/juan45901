@@ -2,7 +2,8 @@
 
 
 
-![banner-gece6c0b26_1280](https://user-images.githubusercontent.com/77130449/197686238-42d5c0e1-7ed1-49db-aef7-3f1fa3326ac8.jpg)
+
+![computer-g25f8402a0_1280](https://user-images.githubusercontent.com/77130449/197686500-eb726c65-9611-43e2-8b75-c04a433a8f39.png)
 
 
 
