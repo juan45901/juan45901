@@ -1,9 +1,8 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
+![markus-spiske-hvSr_CVecVI-unsplash](https://user-images.githubusercontent.com/77130449/197685676-2f905e6a-79f3-4e03-82b0-2a81295232bc.jpg)
 
-
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
 ### I am Juan Gabriel
 
@@ -18,10 +17,6 @@
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-
-
-
-
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
