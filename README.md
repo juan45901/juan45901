@@ -1,7 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![computer-g25f8402a0_1280](https://user-images.githubusercontent.com/77130449/197686500-eb726c65-9611-43e2-8b75-c04a433a8f39.png)
-
 ### I am Juan Gabriel
 
 ## 🛠  Technologies and tools
