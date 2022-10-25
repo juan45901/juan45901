@@ -1,7 +1,9 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-![markus-spiske-hvSr_CVecVI-unsplash](https://user-images.githubusercontent.com/77130449/197685676-2f905e6a-79f3-4e03-82b0-2a81295232bc.jpg)
+
+![banner-gece6c0b26_1280](https://user-images.githubusercontent.com/77130449/197686238-42d5c0e1-7ed1-49db-aef7-3f1fa3326ac8.jpg)
+
 
 
 ### I am Juan Gabriel
